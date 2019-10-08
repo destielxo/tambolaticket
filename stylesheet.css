@@ -11,12 +11,12 @@ body {
 table {
   
   background-color: #EEEEEE;
-  width:360px;
-  height:180px;
+  width:300px;
+  height:150px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;  
-  margin-top: 150px;
+  margin-top: 250px;
   top:50%;
   left:50%;
   
@@ -35,7 +35,7 @@ td {
   padding-bottom: 10px;
   
   background-color:531458;
-  font-size: 20px;
+  font-size: 10px;
   font-weight: bold;
   color:white 
 }
